@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Logo de mi proyecto](C:\Users\Navar\OneDrive\Escritorio\trello-app\src\assets\react trello clone.png)
+![Logo de mi proyecto](src/assets)
 
 ## Available Scripts
 
